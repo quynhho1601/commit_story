@@ -1,0 +1,5 @@
+{
+  "name": "CommitStory",
+  "description": "Turn your GitHub commits into an epic video story. Analyze code, generate a script, and watch the trailer of your development journey.",
+  "requestFramePermissions": []
+}
